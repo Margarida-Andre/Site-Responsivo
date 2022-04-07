@@ -82,7 +82,7 @@ h3 {
   font-size: 1.6rem;
   font-weight: 600;
   color: rgb(255, 255, 255);
-  background-color: rgb(113, 89, 193);
+  background-color: rgba(14, 187, 218, 0.765);
   margin: 15px 0px 0px;
   padding: 12px 30px;
   text-decoration: none;
@@ -145,7 +145,7 @@ CARDS
 .card {
   display: flex;
   flex-direction: column;
-  background-color: #7159c1;
+  background-color: #963df0;
   cursor: pointer;
   transition: all 0.3s ease 0s;
 }
